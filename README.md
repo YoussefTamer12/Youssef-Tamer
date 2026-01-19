@@ -2,14 +2,14 @@
 <h3 align="left">Front-End Web Developer | Building modern & responsive web interfaces</h3>
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/YoussefTamer12">
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME" alt="profile views" />
   </a>
   <a href="https://YOUR_PORTFOLIO_LINK">
     <img alt="Portfolio" src="https://img.shields.io/website?url=https%3A%2F%2FYOUR_PORTFOLIO_LINK">
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat&logo=github">
+  <a href="https://github.com/YoussefTamer12?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YoussefTamer12?style=flat&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
@@ -68,7 +68,7 @@
 
 <h2 align="left">GitHub Activity</h2>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" alt="GitHub Streak" />
+
 
 <br>
 
